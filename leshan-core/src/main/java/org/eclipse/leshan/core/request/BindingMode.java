@@ -36,5 +36,11 @@ public enum BindingMode {
     US,
 
     /** UDP with Queue Mode and SMS */
-    UQS
+    UQS,
+
+    /** TCP */
+    T,
+
+    /** Non-IP */
+    N
 }
